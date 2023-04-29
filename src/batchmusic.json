@@ -1,0 +1,44 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legião Urbana"},
+                  "SongTitle": {"S": "Faroeste Caboclo"},
+                  "AlbumTitle": {"S": "Que País é Este"},
+                  "SongYear": {"S": "1987"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Paralamas do Sucesso"},
+                  "SongTitle": {"S": "Quase Um Segundo"},
+                  "AlbumTitle": {"S": "Bora-Bora"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Frejat"},
+                  "SongTitle": {"S": "Segredos"},
+                  "AlbumTitle": {"S": "Amor Pra Recomeçar"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lulu Santos"},
+                  "SongTitle": {"S": "Apenas Mais Uma De Amor"},
+                  "AlbumTitle": {"S": "Mondo Cane"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        }
+      ]
+}
